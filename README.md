@@ -35,7 +35,7 @@ I also make web apps occasionally.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amefure&theme=gruvbox&utcOffset=9)
 
 ## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=Keichan15&theme=gruvbox)
+![trophy](https://github-profile-trophy.vercel.app/?username=amefure&theme=gruvbox)
 
 
 ## Get in Touch  
